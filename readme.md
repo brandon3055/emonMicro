@@ -17,7 +17,7 @@ The idea behind this project was to build an energy monitor in a form factor sim
 The board supports up to four separate channels, but I found the most I personally need was three and in most cases i only need one.
 Unused channels can simply be left unpopulated.
 
-![](hardware/emonMicro PCB.jpg)
+![](emonMicroPCB.jpg)
 
 For the sockets I used [PW1-0W](https://www.wagneronline.com.au/ac-power-installation/power-240vac/power-lighting/pw1-0w-35241/973869/pd/) panel mount sockets.  
 As well as a couple sockets I pulled out of an old UPS.
